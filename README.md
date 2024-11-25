@@ -1,7 +1,16 @@
-## Hi there 👋
+<h3 align="center">
+  
+  ![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
+  
+  Welcome I'm Saravana Kumar !
+  
+![img](https://custom-icon-badges.herokuapp.com/badge/Repo-blue.svg?logo=repo)
+![img](https://custom-icon-badges.herokuapp.com/badge/Star-yellow.svg?logo=star)
+![img](https://custom-icon-badges.herokuapp.com/badge/Issue-red.svg?logo=issue)
+![img](https://custom-icon-badges.herokuapp.com/badge/Fork-orange.svg?logo=fork)
+![img](https://custom-icon-badges.herokuapp.com/badge/Commit-green.svg?logo=commit)
+![img](https://custom-icon-badges.herokuapp.com/badge/Pull%20Request-purple.svg?logo=pr)
 
-<h2> About Me
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on  Soy Estudiante
   

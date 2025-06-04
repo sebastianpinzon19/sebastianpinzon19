@@ -1,36 +1,107 @@
-<h1 align="center">Sebastian Pinzon Reyes</h1>
-<h3 align="center">Technologist in Software Analysis and Development</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Header Banner" width="100%">
+</div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Sebastian+Pinzon+Reyes;Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Technologist in Software Analysis and Development</h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png" alt="Header Image">
+  <img src="https://komarev.com/ghpvc/?username=sebastianpinzon19&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/sebastianpinzon19?label=Followers&style=social" alt="GitHub Followers" />
 </p>
+
+---
 
 ## 🧑‍💻 About Me
-- 🤔 Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 Studying Technologist in Software Analysis and Development.
-- 💼 Working in a publishing house.
-- 💭 Diving deeper into web development, IT automation scripts, and data science.
-- 🍭 Gaming, working out, and programming as hobbies.
 
-## 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"> 
-  <img src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
-  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+```javascript
+const sebastian = {
+    location: "Bogotá, Colombia 🇨🇴",
+    currentFocus: "Full Stack Development & Data Science",
+    education: "Software Analysis and Development",
+    currentWork: "Publishing House",
+    interests: ["Web Development", "IT Automation", "Data Science"],
+    hobbies: ["Gaming 🎮", "Working Out 💪", "Programming 💻"],
+    lifePhilosophy: "Always learning, always growing 🌱"
+};
+```
+
+## 🔧 Tech Stack & Tools
+
+<div align="center">
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebastianpinzon19&theme=dark&show_icons=true&count_private=true" alt="Sebastian's GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianpinzon19&theme=dark&hide_border=true" alt="Sebastian's Streak Stats">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sebastianpinzon19&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7" alt="Top Languages">
+### 🛠️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
 </p>
 
-<p align="center">
-  <img src="https://github.com/sebastianpinzon19/sebastianpinzon19/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
+### 📋 Project Management
+<p>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebastianpinzon19&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianpinzon19&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sebastianpinzon19&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/sebastianpinzon19/sebastianpinzon19/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <p>
+    <a href="https://linkedin.com/in/sebastianpinzon19">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:sebastianpinzon19@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://github.com/sebastianpinzon19">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <i>⭐ Star my repositories if you find them useful!</i>
+</div>
